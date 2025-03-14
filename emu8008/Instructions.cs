@@ -13,8 +13,7 @@ namespace emu8008.Instructions
             D = (3 << 3),
             E = (4 << 3),
             H = (5 << 3),
-            L = (6 << 3),
-            M = (7 << 3)
+            L = (6 << 3)
         }
         private enum Opcode
         {
